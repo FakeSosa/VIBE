@@ -1,0 +1,252 @@
+[22:45:52] [WARNING] mysql_connect: no password specified
+[22:46:37] [WARNING] mysql_connect: no password specified
+[22:47:40] [ERROR] error #1064 while executing query "UPDATE `users` SET `Email` = '@mail.com', `Skin` = '240', `Admin` = '0', `Level` = '1', `Respekti` = '0', `SatiIgre` = '0', `Novac` = '5000 WHERE `SQLID` = '1'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1'' at line 1
+[22:54:55] [WARNING] mysql_connect: no password specified
+[22:58:43] [WARNING] mysql_connect: no password specified
+[22:59:39] [ERROR] error #1064 while executing query "UPDATE `users` SET `Email` = '@gmail.com', `Skin` = '240', `Admin` = '0', `Level` = '1', `Respekti` = '0', `SatiIgre` = '0', `Novac` = '5000 WHERE `SQLID` = '1'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1'' at line 1
+[23:00:07] [ERROR] error #1064 while executing query "UPDATE `users` SET `Email` = '@gmail.com', `Skin` = '240', `Admin` = '0', `Level` = '1', `Respekti` = '0', `SatiIgre` = '0', `Novac` = '5000 WHERE `SQLID` = '1'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1'' at line 1
+[23:07:46] [WARNING] mysql_connect: no password specified
+[23:09:32] [WARNING] mysql_connect: no password specified
+[23:10:11] [ERROR] error #1064 while executing query "UPDATE `users` SET `Email` = '@mail.com', `Skin` = '240', `Admin` = '0', `Level` = '1', `Respekti` = '0', `SatiIgre` = '0', `Novac` = '5000 WHERE `SQLID` = '1'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1'' at line 1
+[23:13:40] [WARNING] mysql_connect: no password specified
+[23:20:15] [WARNING] mysql_connect: no password specified
+[00:01:15] [WARNING] mysql_connect: no password specified
+[00:02:44] [WARNING] mysql_connect: no password specified
+[00:12:14] [WARNING] mysql_connect: no password specified
+[00:20:38] [WARNING] mysql_connect: no password specified
+[12:32:26] [WARNING] mysql_connect: no password specified
+[13:14:08] [WARNING] mysql_connect: no password specified
+[13:43:58] [WARNING] mysql_connect: no password specified
+[14:02:28] [WARNING] mysql_connect: no password specified
+[14:03:56] [WARNING] mysql_connect: no password specified
+[14:05:42] [WARNING] mysql_connect: no password specified
+[14:07:59] [WARNING] mysql_connect: no password specified
+[14:12:47] [WARNING] mysql_connect: no password specified
+[14:14:54] [WARNING] mysql_connect: no password specified
+[14:24:44] [WARNING] mysql_connect: no password specified
+[14:25:51] [WARNING] mysql_connect: no password specified
+[14:36:39] [WARNING] mysql_connect: no password specified
+[14:37:33] [WARNING] mysql_connect: no password specified
+[14:40:07] [WARNING] mysql_connect: no password specified
+[15:05:18] [WARNING] mysql_connect: no password specified
+[15:12:31] [WARNING] mysql_connect: no password specified
+[15:15:57] [WARNING] mysql_connect: no password specified
+[15:32:14] [WARNING] mysql_connect: no password specified
+[15:35:57] [WARNING] mysql_connect: no password specified
+[16:18:59] [WARNING] mysql_connect: no password specified
+[17:05:12] [WARNING] mysql_connect: no password specified
+[17:30:07] [WARNING] mysql_connect: no password specified
+[17:33:40] [WARNING] mysql_connect: no password specified
+[17:42:53] [WARNING] mysql_connect: no password specified
+[18:17:08] [WARNING] mysql_connect: no password specified
+[18:36:14] [WARNING] mysql_connect: no password specified
+[19:07:58] [WARNING] mysql_connect: no password specified
+[19:09:18] [WARNING] mysql_connect: no password specified
+[19:17:51] [WARNING] mysql_connect: no password specified
+[19:25:48] [WARNING] mysql_connect: no password specified
+[19:28:10] [WARNING] mysql_connect: no password specified
+[19:29:14] [WARNING] mysql_connect: no password specified
+[19:29:15] [WARNING] mysql_connect: no password specified
+[19:32:53] [WARNING] mysql_connect: no password specified
+[19:39:34] [WARNING] mysql_connect: no password specified
+[19:45:49] [WARNING] mysql_connect: no password specified
+[19:47:14] [WARNING] mysql_connect: no password specified
+[19:55:33] [WARNING] mysql_connect: no password specified
+[20:05:08] [WARNING] mysql_connect: no password specified
+[20:13:48] [WARNING] mysql_connect: no password specified
+[20:15:40] [WARNING] mysql_connect: no password specified
+[20:29:21] [WARNING] mysql_connect: no password specified
+[20:29:25] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[20:29:48] [WARNING] mysql_connect: no password specified
+[20:43:36] [WARNING] mysql_connect: no password specified
+[20:59:47] [WARNING] mysql_connect: no password specified
+[11:10:14] [WARNING] mysql_connect: no password specified
+[11:12:03] [WARNING] mysql_connect: no password specified
+[12:27:13] [WARNING] mysql_connect: no password specified
+[12:28:32] [WARNING] mysql_connect: no password specified
+[12:30:46] [ERROR] error #1064 while executing query "UPDATE `users` SET `NovacBanka` = '10000', WHERE `SQLID` = '1'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `SQLID` = '1'' at line 1
+[12:51:08] [WARNING] mysql_connect: no password specified
+[12:57:01] [WARNING] mysql_connect: no password specified
+[13:08:21] [WARNING] mysql_connect: no password specified
+[13:47:55] [WARNING] mysql_connect: no password specified
+[13:51:33] [WARNING] mysql_connect: no password specified
+[14:04:54] [WARNING] mysql_connect: no password specified
+[14:06:37] [WARNING] mysql_connect: no password specified
+[14:10:23] [WARNING] mysql_connect: no password specified
+[16:38:16] [WARNING] mysql_connect: no password specified
+[17:34:54] [WARNING] mysql_connect: no password specified
+[18:10:10] [WARNING] mysql_connect: no password specified
+[18:10:55] [ERROR] error #1054 while executing query "UPDATE `users` SET `Ime` = 'Sosa', `Passworc` = 'A7B50BD1273110CE4D58D77AFB8E95EDADA8FEEF2788C661B795CE31DAD5D420' WHERE `SQLID` = '1'": Unknown column 'Passworc' in 'field list'
+[18:12:27] [WARNING] mysql_connect: no password specified
+[18:12:59] [WARNING] mysql_connect: no password specified
+[18:19:00] [WARNING] mysql_connect: no password specified
+[18:31:06] [WARNING] mysql_connect: no password specified
+[19:43:26] [WARNING] mysql_connect: no password specified
+[19:43:41] [WARNING] mysql_connect: no password specified
+[20:23:59] [WARNING] mysql_connect: no password specified
+[20:25:42] [WARNING] mysql_connect: no password specified
+[20:30:48] [WARNING] mysql_connect: no password specified
+[20:33:46] [WARNING] mysql_connect: no password specified
+[20:39:12] [WARNING] mysql_connect: no password specified
+[20:51:24] [WARNING] mysql_connect: no password specified
+[21:25:21] [WARNING] mysql_connect: no password specified
+[21:43:32] [WARNING] mysql_connect: no password specified
+[21:48:54] [WARNING] mysql_connect: no password specified
+[22:13:46] [WARNING] mysql_connect: no password specified
+[11:18:03] [WARNING] mysql_connect: no password specified
+[12:26:28] [WARNING] mysql_connect: no password specified
+[13:40:04] [WARNING] mysql_connect: no password specified
+[14:29:53] [WARNING] mysql_connect: no password specified
+[14:56:14] [WARNING] mysql_connect: no password specified
+[15:19:57] [WARNING] mysql_connect: no password specified
+[15:24:31] [WARNING] mysql_connect: no password specified
+[15:28:42] [WARNING] mysql_connect: no password specified
+[15:34:28] [WARNING] mysql_connect: no password specified
+[15:42:13] [WARNING] mysql_connect: no password specified
+[16:18:23] [WARNING] mysql_connect: no password specified
+[16:47:27] [WARNING] mysql_connect: no password specified
+[18:20:30] [WARNING] mysql_connect: no password specified
+[18:21:54] [WARNING] mysql_connect: no password specified
+[18:37:02] [WARNING] mysql_connect: no password specified
+[19:28:11] [WARNING] mysql_connect: no password specified
+[19:50:27] [WARNING] mysql_connect: no password specified
+[20:19:15] [WARNING] mysql_connect: no password specified
+[22:56:29] [WARNING] mysql_connect: no password specified
+[22:56:53] [ERROR] cache_get_value_name_int: field 'ADozvola' not found
+[22:56:53] [ERROR] cache_get_value_name_int: field 'KamionDozvola' not found
+[22:56:53] [ERROR] cache_get_value_name_int: field 'MotorDozvola' not found
+[22:56:53] [ERROR] cache_get_value_name_int: field 'AvionDozvola' not found
+[22:56:53] [ERROR] cache_get_value_name_int: field 'BrodDozvola' not found
+[22:59:05] [ERROR] error #1054 while executing query "UPDATE `users` SET `Kartica` = '1', `KarticaPin` = '8070', `Warn` = '0', `ADozvola` = '0', `KamionDozvola` = '0', `MotorDozvola` = '0'  WHERE `SQLID` = '1'": Unknown column 'ADozvola' in 'field list'
+[22:59:05] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '0', `BrodDozvola` = '0' WHERE `SQLID` = '1'": Unknown column 'AvionDozvola' in 'field list'
+[23:03:53] [WARNING] mysql_connect: no password specified
+[23:04:15] [ERROR] cache_get_value_name_int: field 'ADozvola' not found
+[23:04:15] [ERROR] cache_get_value_name_int: field 'KamionDozvola' not found
+[23:04:15] [ERROR] cache_get_value_name_int: field 'MotorDozvola' not found
+[23:04:15] [ERROR] cache_get_value_name_int: field 'AvionDozvola' not found
+[23:04:15] [ERROR] cache_get_value_name_int: field 'BrodDozvola' not found
+[23:10:18] [ERROR] error #1054 while executing query "UPDATE `users` SET `Kartica` = '1', `KarticaPin` = '8070', `Warn` = '0', `ADozvola` = '0', `KamionDozvola` = '0', `MotorDozvola` = '0'  WHERE `SQLID` = '1'": Unknown column 'ADozvola' in 'field list'
+[23:10:18] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '0', `BrodDozvola` = '0' WHERE `SQLID` = '1'": Unknown column 'AvionDozvola' in 'field list'
+[23:16:28] [WARNING] mysql_connect: no password specified
+[23:16:57] [ERROR] cache_get_value_name_int: field 'ADozvola' not found
+[23:16:57] [ERROR] cache_get_value_name_int: field 'KamionDozvola' not found
+[23:16:57] [ERROR] cache_get_value_name_int: field 'MotorDozvola' not found
+[23:16:57] [ERROR] cache_get_value_name_int: field 'AvionDozvola' not found
+[23:16:57] [ERROR] cache_get_value_name_int: field 'BrodDozvola' not found
+[23:20:02] [ERROR] error #1054 while executing query "UPDATE `users` SET `Kartica` = '1', `KarticaPin` = '8070', `Warn` = '0', `ADozvola` = '0', `KamionDozvola` = '0', `MotorDozvola` = '0'  WHERE `SQLID` = '1'": Unknown column 'ADozvola' in 'field list'
+[23:20:02] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '0', `BrodDozvola` = '0' WHERE `SQLID` = '1'": Unknown column 'AvionDozvola' in 'field list'
+[23:35:41] [WARNING] mysql_connect: no password specified
+[23:36:05] [ERROR] cache_get_value_name_int: field 'ADozvola' not found
+[23:36:05] [ERROR] cache_get_value_name_int: field 'KamionDozvola' not found
+[23:36:05] [ERROR] cache_get_value_name_int: field 'MotorDozvola' not found
+[23:36:05] [ERROR] cache_get_value_name_int: field 'AvionDozvola' not found
+[23:36:05] [ERROR] cache_get_value_name_int: field 'BrodDozvola' not found
+[23:36:26] [ERROR] error #1054 while executing query "UPDATE `users` SET `Kartica` = '1', `KarticaPin` = '8070', `Warn` = '0', `ADozvola` = '0', `KamionDozvola` = '0', `MotorDozvola` = '0'  WHERE `SQLID` = '1'": Unknown column 'ADozvola' in 'field list'
+[23:36:26] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '0', `BrodDozvola` = '0' WHERE `SQLID` = '1'": Unknown column 'AvionDozvola' in 'field list'
+[23:37:09] [WARNING] mysql_connect: no password specified
+[23:37:28] [ERROR] cache_get_value_name_int: field 'ADozvola' not found
+[23:37:28] [ERROR] cache_get_value_name_int: field 'KamionDozvola' not found
+[23:37:28] [ERROR] cache_get_value_name_int: field 'MotorDozvola' not found
+[23:37:28] [ERROR] cache_get_value_name_int: field 'AvionDozvola' not found
+[23:37:28] [ERROR] cache_get_value_name_int: field 'BrodDozvola' not found
+[23:39:21] [ERROR] error #1064 while executing query "UPDATE `users` SET `ADozvola` = '1', WHERE `SQLID` = '1'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `SQLID` = '1'' at line 1
+[23:41:36] [WARNING] mysql_connect: no password specified
+[23:42:22] [ERROR] error #1064 while executing query "UPDATE `users` SET `ADozvola` = '1', WHERE `SQLID` = '1'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `SQLID` = '1'' at line 1
+[23:43:45] [WARNING] mysql_connect: no password specified
+[23:47:19] [WARNING] mysql_connect: no password specified
+[23:51:55] [WARNING] mysql_connect: no password specified
+[11:45:45] [WARNING] mysql_connect: no password specified
+[12:12:19] [WARNING] mysql_connect: no password specified
+[12:59:31] [WARNING] mysql_connect: no password specified
+[13:01:37] [WARNING] mysql_connect: no password specified
+[13:06:28] [WARNING] mysql_connect: no password specified
+[13:12:20] [WARNING] mysql_connect: no password specified
+[13:23:02] [WARNING] mysql_connect: no password specified
+[13:26:38] [ERROR] error #1062 while executing query "INSERT INTO `atms` (SQLID, Postavljen_Bankomat, Poz_X, Poz_Y, Poz_Z, Poz_Angle, Interijer, VW) VALUES( '2', '1', '1467.123291', '-1024.916870', '23.828125', '0.155766', '0', '0')": Duplicate entry '2' for key 'PRIMARY'
+[13:31:42] [WARNING] mysql_connect: no password specified
+[13:37:28] [WARNING] mysql_connect: no password specified
+[13:51:27] [WARNING] mysql_connect: no password specified
+[13:54:22] [WARNING] mysql_connect: no password specified
+[21:39:28] [WARNING] mysql_connect: no password specified
+[21:40:07] [ERROR] cache_get_value_name_int: field 'RentKuca' not found
+[21:40:20] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '1', `BrodDozvola` = '1', `Kuca` = '-1', `RentKuca` = '0', `Spawn` = '1' WHERE `SQLID` = '1'": Unknown column 'RentKuca' in 'field list'
+[21:42:33] [WARNING] mysql_connect: no password specified
+[21:42:57] [ERROR] cache_get_value_name_int: field 'RentKuca' not found
+[21:44:34] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '1', `BrodDozvola` = '1', `Kuca` = '-1', `RentKuca` = '0', `Spawn` = '1' WHERE `SQLID` = '1'": Unknown column 'RentKuca' in 'field list'
+[21:50:14] [WARNING] mysql_connect: no password specified
+[21:50:42] [WARNING] mysql_connect: no password specified
+[21:51:07] [ERROR] cache_get_value_name_int: field 'RentKuca' not found
+[21:52:53] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '1', `BrodDozvola` = '1', `Kuca` = '-1', `RentKuca` = '0', `Spawn` = '1' WHERE `SQLID` = '1'": Unknown column 'RentKuca' in 'field list'
+[21:57:41] [WARNING] mysql_connect: no password specified
+[21:58:12] [ERROR] cache_get_value_name_int: field 'RentKuca' not found
+[22:00:21] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '1', `BrodDozvola` = '1', `Kuca` = '-1', `RentKuca` = '0', `Spawn` = '1' WHERE `SQLID` = '1'": Unknown column 'RentKuca' in 'field list'
+[22:00:29] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '1', `BrodDozvola` = '1', `Kuca` = '-1', `RentKuca` = '0', `Spawn` = '1' WHERE `SQLID` = '1'": Unknown column 'RentKuca' in 'field list'
+[22:10:13] [WARNING] mysql_connect: no password specified
+[22:10:34] [ERROR] cache_get_value_name_int: field 'RentKuca' not found
+[22:12:20] [ERROR] error #1054 while executing query "UPDATE `users` SET `RentKuca` = '-1' WHERE `SQLID` = '1'": Unknown column 'RentKuca' in 'field list'
+[22:12:42] [ERROR] error #1054 while executing query "UPDATE `users` SET `AvionDozvola` = '1', `BrodDozvola` = '1', `Kuca` = '1', `RentKuca` = '-1', `Spawn` = '1' WHERE `SQLID` = '1'": Unknown column 'RentKuca' in 'field list'
+[22:14:20] [WARNING] mysql_connect: no password specified
+[22:18:35] [WARNING] mysql_connect: no password specified
+[22:18:42] [WARNING] mysql_connect: no password specified
+[22:22:40] [WARNING] mysql_connect: no password specified
+[22:31:40] [WARNING] mysql_connect: no password specified
+[22:35:57] [WARNING] mysql_connect: no password specified
+[22:39:08] [WARNING] mysql_connect: no password specified
+[22:42:28] [WARNING] mysql_connect: no password specified
+[22:44:50] [WARNING] mysql_connect: no password specified
+[23:08:37] [WARNING] mysql_connect: no password specified
+[23:11:30] [WARNING] mysql_connect: no password specified
+[23:15:46] [WARNING] mysql_connect: no password specified
+[23:18:47] [WARNING] mysql_connect: no password specified
+[00:06:40] [WARNING] mysql_connect: no password specified
+[00:18:17] [WARNING] mysql_connect: no password specified
+[13:39:37] [WARNING] mysql_connect: no password specified
+[13:40:11] [ERROR] cache_get_value_name_int: field 'Stan' not found
+[13:41:00] [ERROR] error #1054 while executing query "UPDATE `users` SET `Droga` = '0', `Mats` = '0', `Hrana` = '0', `Stan` = '0' WHERE `SQLID` = '1'": Unknown column 'Stan' in 'field list'
+[13:42:21] [WARNING] mysql_connect: no password specified
+[13:42:44] [ERROR] cache_get_value_name_int: field 'Stan' not found
+[13:43:09] [ERROR] error #1054 while executing query "UPDATE `users` SET `Droga` = '0', `Mats` = '0', `Hrana` = '0', `Stan` = '0' WHERE `SQLID` = '1'": Unknown column 'Stan' in 'field list'
+[13:43:49] [WARNING] mysql_connect: no password specified
+[13:47:25] [WARNING] mysql_connect: no password specified
+[13:51:54] [WARNING] mysql_connect: no password specified
+[13:56:39] [WARNING] mysql_connect: no password specified
+[14:03:42] [WARNING] mysql_connect: no password specified
+[15:01:41] [WARNING] mysql_connect: no password specified
+[15:02:10] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:06:42] [WARNING] mysql_connect: no password specified
+[17:06:54] [WARNING] mysql_connect: no password specified
+[17:08:15] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:11:56] [WARNING] mysql_connect: no password specified
+[17:12:20] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:21:21] [WARNING] mysql_connect: no password specified
+[17:21:55] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:43:03] [WARNING] mysql_connect: no password specified
+[17:43:12] [WARNING] mysql_connect: no password specified
+[17:43:32] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:48:16] [WARNING] mysql_connect: no password specified
+[17:48:39] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:56:27] [WARNING] mysql_connect: no password specified
+[17:56:51] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[20:18:18] [WARNING] mysql_connect: no password specified
+[20:18:43] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[20:18:43] [ERROR] cache_get_value_name_int: field 'Vip' not found
+[20:23:24] [ERROR] error #1054 while executing query "UPDATE `users` SET `PreostaloZaOtplatu` = '0', `Vip` = '0' WHERE `SQLID` = '1'": Unknown column 'Vip' in 'field list'
+[00:28:52] [WARNING] mysql_connect: no password specified
+[00:29:44] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[00:40:58] [WARNING] mysql_connect: no password specified
+[00:41:18] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[00:55:54] [WARNING] mysql_connect: no password specified
+[00:56:17] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[00:57:56] [WARNING] mysql_connect: no password specified
+[00:58:19] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[12:28:59] [WARNING] mysql_connect: no password specified
+[12:30:58] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:42:46] [WARNING] mysql_connect: no password specified
+[17:43:33] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:45:38] [WARNING] mysql_connect: no password specified
+[17:46:00] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[17:50:19] [WARNING] mysql_connect: no password specified
+[17:50:45] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
+[22:01:17] [WARNING] mysql_connect: no password specified
+[22:01:38] [WARNING] mysql_connect: no password specified
+[22:02:08] [ERROR] cache_get_value_name_int: field 'PreostaloZaOtplatu' not found
